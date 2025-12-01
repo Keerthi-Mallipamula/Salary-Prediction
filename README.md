@@ -1,2 +1,2 @@
 # Salary-Prediction
-predicting Salary using Polynomial Regression
+Predicting Salary using Polynomial Regression
